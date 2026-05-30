@@ -49,4 +49,4 @@ Customer Behavior: Average of 2.32 pizzas per order shows strong upselling poten
 📸 Screenshots / Demos
 the dashboard looks like. Example:
 Home page: https://github.com/itz-rakhi/Pizza_Sales-dashboard/blob/main/Home%20page.png
-Best/Worst Sales page: 
+Best/Worst Sales page: https://github.com/itz-rakhi/Pizza_Sales-dashboard/blob/main/Best-Worst%20Sales%20page.png
