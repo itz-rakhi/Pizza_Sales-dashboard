@@ -47,6 +47,6 @@ Operational Planning: Staff more during peak evenings and months.
 Customer Behavior: Average of 2.32 pizzas per order shows strong upselling potential.
 
 📸 Screenshots / Demos
-the dashboard looks like. Example:
+the dashboard looks like. 
 Home page: https://github.com/itz-rakhi/Pizza_Sales-dashboard/blob/main/Home%20page.png
 Best/Worst Sales page: https://github.com/itz-rakhi/Pizza_Sales-dashboard/blob/main/Best-Worst%20Sales%20page.png
